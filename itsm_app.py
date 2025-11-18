@@ -7,7 +7,7 @@ st.set_page_config(page_title="ITSM Problem Classifier", layout="centered")
 
 if "page" not in st.session_state:
     st.session_state.page = "welcome"
-
+#Welcome Page Allow to shows the information of the student that development the proejct
 def go_to_main():
     st.session_state.page = "main"
 
@@ -21,9 +21,9 @@ if st.session_state.page == "welcome":
             <h3 style='color:#16A085;'>A Final Year Project</h3>
             <br>
             <p style='font-size:22px; color:#555;'>
-                <b>Student Name:</b> ABDULGANIU MARYAM OLADIPUPO<br>
-                <b>Matric Number:</b> NC/HND/F23/0029<br>
-                <b>Supervisor:</b> Mrs. ADEIFE, O.T<br>
+                <b>Student Name:</b> JOHN DOE<br>
+                <b>Matric Number:</b> CS/1922<br>
+                <b>Supervisor:</b> Me<br>
                 <b>Department:</b> NETWORKING AND CLOUD COMPUTING
             </p>
             <br><br>
