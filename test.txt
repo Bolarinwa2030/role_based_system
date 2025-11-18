@@ -1,0 +1,60 @@
+Manual Test Ticket Descriptions
+🛰️ Network Issues
+
+Unable to connect to the office WiFi since this morning.
+
+VPN disconnects automatically after five minutes of connection.
+
+Experiencing high latency while accessing remote servers.
+
+Internet connection keeps dropping in the Engineering department.
+
+Cannot access the intranet portal from the office network.
+
+💻 Hardware Issues
+
+Laptop not powering on after last night’s Windows update.
+
+Printer showing paper jam and error code 32.
+
+Blue screen appears after connecting an external hard drive.
+
+Server in data center rack A has failed to boot.
+
+Desktop keyboard and mouse stopped working suddenly.
+
+⚙️ Software Issues
+
+Accounting software crashes when trying to generate a report.
+
+Email client not syncing new messages since last update.
+
+Error 500 appears when logging into the HR web portal.
+
+Application freezes when opening large project files.
+
+Unable to save changes in the document management system.
+
+🔐 Access Issues
+
+User unable to login after password reset.
+
+Permission denied when trying to open the Finance folder.
+
+Account locked due to multiple failed login attempts.
+
+Need access to the shared project directory for a new employee.
+
+Forgot password and cannot reset through self-service portal.
+
+📦 Other / General Requests
+
+Request for installation of new design software.
+
+Inquiry about the upcoming IT maintenance schedule.
+
+Need verification of last night’s system backup.
+
+Request for purchase of new external hard drives.
+
+Question about IT policy for personal device usage.
